@@ -1,5 +1,5 @@
 /* smooth scroll */
 
-htm {
+html {
     scroll-behavior: smooth;
 }
