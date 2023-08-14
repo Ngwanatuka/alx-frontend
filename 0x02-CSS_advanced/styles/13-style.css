@@ -45,6 +45,10 @@ a:visited {
     font-style: italic;
 }
 
+a:hover {
+    text-decoration: underline;
+}
+
 a:active {
     font-family: var(--color-light-grey);
 }
