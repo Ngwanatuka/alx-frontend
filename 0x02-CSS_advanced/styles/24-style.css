@@ -225,7 +225,7 @@ h1, h2, h3, h4, h5, h6 {
 
 .card-services a {
     display: block;
-    padding: 0.5rem;
+    padding: 2rem;
     background-color: var(--color-light-grey);
 }
 
